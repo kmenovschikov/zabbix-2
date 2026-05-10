@@ -95,8 +95,7 @@ UserParameter=netology_ram,free | grep Mem | awk '{print $4/$2 * 100.0}'
 
 ### Решение
 
-<img width="2559" height="1134" alt="image" src="https://github.com/user-attachments/assets/479880af-1040-49c7-ad90-9e58b7e39afb" />
-
+<img width="2559" height="1135" alt="image" src="https://github.com/user-attachments/assets/303057ee-6ef6-4ae2-ba07-b8a38b3bbf9b" />
 
 ---
 
